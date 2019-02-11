@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:lab01/ui/first_screen.dart';
+import 'package:lab01/ui/second_screen.dart';
+import 'package:lab01/ui/my_custom_form.dart';
 
 void main() => runApp(MyApp());
 
@@ -8,10 +11,16 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
+      // debugShowCheckedModeBanner: false, //show bar debug
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.red,
       ),
-      home: MyHomePage(), //home คือตัว class แรกที่เอามาแสดงผล
+      // home: MyHomePage(),
+      initialRoute: "/",
+      routes:{
+        "/" :(context) => MyCustomForm(),
+        "/second":(context) => SecondScreen(),
+        },
     );
   }
 }
