@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:lab01/ui/detail_screen.dart';
 
 class FirstScreen extends StatelessWidget{
   @override
