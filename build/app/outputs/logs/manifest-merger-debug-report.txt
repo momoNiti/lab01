@@ -4,6 +4,17 @@ ADDED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml:1:1-39:12
 INJECTED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml:1:1-39:12
 INJECTED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml:1:1-39:12
 INJECTED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml:1:1-39:12
+MERGED from [:image_picker] D:\60070041\lab01\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\adadc95cfc29119c0cca61f35a27b937\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\128209398226ad433320862ea6fc1969\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\49738d795d39cafd3817cbfe3696cae5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\19f501153ff77cb62ea9355c69cc5937\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\72602791169fb1dbc12d84c5ae331393\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ea8d7fa134eef1e4ac87aad4d3cc4d71\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2f0c169667a85d6f7e4a2d385dee62f6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\456c925abe300bab5022d5ef98fe7272\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\797d31f92996c8c91709bea90391c25d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c80e0d5b1da11338aa7e511bc35fbdf0\AndroidManifest.xml:17:1-22:12
 INJECTED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml:1:1-39:12
 INJECTED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml:1:1-39:12
 INJECTED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml:1:1-39:12
@@ -27,6 +38,8 @@ ADDED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml:8:5-66
 		ADDED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml:8:22-64
 application
 ADDED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml:15:5-38:19
+MERGED from [:image_picker] D:\60070041\lab01\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-21:19
+MERGED from [:image_picker] D:\60070041\lab01\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-21:19
 	android:label
 		ADDED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml:17:9-30
 	android:icon
@@ -67,6 +80,28 @@ uses-sdk
 INJECTED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml
 INJECTED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml
+MERGED from [:image_picker] D:\60070041\lab01\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] D:\60070041\lab01\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\adadc95cfc29119c0cca61f35a27b937\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\adadc95cfc29119c0cca61f35a27b937\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\128209398226ad433320862ea6fc1969\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\128209398226ad433320862ea6fc1969\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\49738d795d39cafd3817cbfe3696cae5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\49738d795d39cafd3817cbfe3696cae5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\19f501153ff77cb62ea9355c69cc5937\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\19f501153ff77cb62ea9355c69cc5937\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\72602791169fb1dbc12d84c5ae331393\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\72602791169fb1dbc12d84c5ae331393\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ea8d7fa134eef1e4ac87aad4d3cc4d71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ea8d7fa134eef1e4ac87aad4d3cc4d71\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2f0c169667a85d6f7e4a2d385dee62f6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2f0c169667a85d6f7e4a2d385dee62f6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\456c925abe300bab5022d5ef98fe7272\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\456c925abe300bab5022d5ef98fe7272\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\797d31f92996c8c91709bea90391c25d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\797d31f92996c8c91709bea90391c25d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c80e0d5b1da11338aa7e511bc35fbdf0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c80e0d5b1da11338aa7e511bc35fbdf0\AndroidManifest.xml:20:5-44
 INJECTED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml
 INJECTED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -77,3 +112,31 @@ INJECTED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml
 		INJECTED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml
 		ADDED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml
 		INJECTED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] D:\60070041\lab01\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] D:\60070041\lab01\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] D:\60070041\lab01\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] D:\60070041\lab01\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.CAMERA
+ADDED from [:image_picker] D:\60070041\lab01\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:image_picker] D:\60070041\lab01\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:22-62
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] D:\60070041\lab01\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] D:\60070041\lab01\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:image_picker] D:\60070041\lab01\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:13-74
+	android:exported
+		ADDED from [:image_picker] D:\60070041\lab01\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:image_picker] D:\60070041\lab01\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] D:\60070041\lab01\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:13-19:75
+	android:resource
+		ADDED from [:image_picker] D:\60070041\lab01\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:19:17-72
+	android:name
+		ADDED from [:image_picker] D:\60070041\lab01\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:18:17-67
