@@ -5,6 +5,7 @@ INJECTED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml:1:1-39:
 INJECTED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml:1:1-39:12
 INJECTED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml:1:1-39:12
 MERGED from [:image_picker] D:\60070041\lab01\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-23:12
+MERGED from [:path_provider] D:\60070041\lab01\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
 MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\adadc95cfc29119c0cca61f35a27b937\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\128209398226ad433320862ea6fc1969\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\49738d795d39cafd3817cbfe3696cae5\AndroidManifest.xml:17:1-22:12
@@ -82,6 +83,8 @@ INJECTED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml
 INJECTED from D:\60070041\lab01\android\app\src\main\AndroidManifest.xml
 MERGED from [:image_picker] D:\60070041\lab01\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
 MERGED from [:image_picker] D:\60070041\lab01\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] D:\60070041\lab01\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] D:\60070041\lab01\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
 MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\adadc95cfc29119c0cca61f35a27b937\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\adadc95cfc29119c0cca61f35a27b937\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\128209398226ad433320862ea6fc1969\AndroidManifest.xml:20:5-44
