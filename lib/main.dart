@@ -4,6 +4,8 @@ import 'package:lab01/ui/list_data.dart';
 import 'package:lab01/ui/second_screen.dart';
 import 'package:lab01/ui/my_custom_form.dart';
 import './ui/todo_screem.dart';
+import './ui/login_screen.dart';
+import './ui/register_screen.dart';
 
 void main() => runApp(MyApp());
 
@@ -18,13 +20,15 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.red,
       ),
       // home: MyHomePage(),
-      initialRoute: "/second",
+      initialRoute: "/login",
       routes:{
         "/customForm" :(context) => MyCustomForm(),
         "/SecondScreen":(context) => SecondScreen(),
         "/first" : (context) => FirstScreen(),
         "/load" :(context) => ListData(),
         "/": (context) => TodoScreen(),
+        "/register": (context) => RegisterScreen(),
+        "/login": (context) => LoginScreen(),
         },
     );
   }
