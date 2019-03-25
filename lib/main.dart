@@ -3,6 +3,7 @@ import 'package:lab01/ui/first_screen.dart';
 import 'package:lab01/ui/list_data.dart';
 import 'package:lab01/ui/second_screen.dart';
 import 'package:lab01/ui/my_custom_form.dart';
+import './ui/todo_screem.dart';
 
 void main() => runApp(MyApp());
 
@@ -19,10 +20,11 @@ class MyApp extends StatelessWidget {
       // home: MyHomePage(),
       initialRoute: "/second",
       routes:{
-        "/" :(context) => MyCustomForm(),
-        "/second":(context) => SecondScreen(),
+        "/customForm" :(context) => MyCustomForm(),
+        "/SecondScreen":(context) => SecondScreen(),
         "/first" : (context) => FirstScreen(),
         "/load" :(context) => ListData(),
+        "/": (context) => TodoScreen(),
         },
     );
   }
