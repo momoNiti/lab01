@@ -13,6 +13,9 @@ class LoginScreenState extends State<LoginScreen> {
   
   FirebaseAuth auth = FirebaseAuth.instance;
 
+  TextEditingController emailController = TextEditingController();
+  TextEditingController passwordController = TextEditingController();
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -23,6 +26,7 @@ class LoginScreenState extends State<LoginScreen> {
           child: Column(
             children: <Widget>[
               TextFormField(
+                controller: emailController,
                 decoration: InputDecoration(
                   labelText: "Email"
                 ),
@@ -32,6 +36,7 @@ class LoginScreenState extends State<LoginScreen> {
                 },
               ),
               TextFormField(
+                controller: passwordController,
                 decoration: InputDecoration(
                   labelText: "Password"
                 ),
@@ -48,8 +53,8 @@ class LoginScreenState extends State<LoginScreen> {
                       child: Text("Sign in"),
                       onPressed: () {
                         auth.signInWithEmailAndPassword(
-                          email: "momo_niti@hotmail.com",
-                          password: "12345678",
+                          email: emailController.text,
+                          password: passwordController.text,
                         ).then((FirebaseUser user){
                           if(user.isEmailVerified){
                             print("Go home screen !");
