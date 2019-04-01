@@ -51,14 +51,23 @@ class BookScreenState extends State<BookScreen> {
                 onPressed: () {
                   if (_formkey.currentState.validate()) {
                     //save to cloud fire store
-                    Firestore.instance.collection("books").add(
-                      {
-                        'title': _title.text,
-                        "author": _author.text,
-                      }
-                    ).then((doc){
-                      // your logic here
-                      print(doc.toString());
+                    // Firestore.instance.collection("books").add(
+                    //   {
+                    //     'title': _title.text,
+                    //     "author": _author.text,
+                    //   }
+                    // ).then((doc){
+                    //   // your logic here
+                    //   print(doc.toString());
+                    // });
+
+                    Firestore.instance.collection('books')
+                    .document('X1')
+                    .setData({
+                      'title': _title.text,
+                      'author': _author.text
+                    }).then((x){
+                      print("set success");
                     });
                   }
                 },

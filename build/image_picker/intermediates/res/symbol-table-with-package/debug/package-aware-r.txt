@@ -1,5 +1,4 @@
 io.flutter.plugins.imagepicker
-attr coordinatorLayoutStyle
 attr font
 attr fontProviderAuthority
 attr fontProviderCerts
@@ -9,14 +8,6 @@ attr fontProviderPackage
 attr fontProviderQuery
 attr fontStyle
 attr fontWeight
-attr keylines
-attr layout_anchor
-attr layout_anchorGravity
-attr layout_behavior
-attr layout_dodgeInsetEdges
-attr layout_insetEdge
-attr layout_keyline
-attr statusBarBackground
 bool abc_action_bar_embed_tabs
 color notification_action_color_filter
 color notification_icon_bg_color
@@ -65,36 +56,28 @@ id action_text
 id actions
 id async
 id blocking
-id bottom
 id cancel_action
 id chronometer
-id end
 id end_padder
 id forever
 id icon
 id icon_group
 id info
 id italic
-id left
 id line1
 id line3
 id media_actions
-id none
 id normal
 id notification_background
 id notification_main_column
 id notification_main_column_container
-id right
 id right_icon
 id right_side
-id start
 id status_bar_latest_event_content
-id tag_transition_group
 id text
 id text2
 id time
 id title
-id top
 integer cancel_button_image_alpha
 integer status_bar_notification_info_maxnum
 layout notification_action
@@ -125,9 +108,6 @@ style TextAppearance_Compat_Notification_Title
 style TextAppearance_Compat_Notification_Title_Media
 style Widget_Compat_NotificationActionContainer
 style Widget_Compat_NotificationActionText
-style Widget_Support_CoordinatorLayout
-styleable CoordinatorLayout keylines statusBarBackground
-styleable CoordinatorLayout_Layout android_layout_gravity layout_anchor layout_anchorGravity layout_behavior layout_dodgeInsetEdges layout_insetEdge layout_keyline
 styleable FontFamily fontProviderAuthority fontProviderCerts fontProviderFetchStrategy fontProviderFetchTimeout fontProviderPackage fontProviderQuery
-styleable FontFamilyFont android_font android_fontStyle android_fontWeight font fontStyle fontWeight
+styleable FontFamilyFont font fontStyle fontWeight
 xml flutter_image_picker_file_paths
