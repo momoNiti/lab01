@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:lab01/ui/book_screen.dart';
 import 'package:lab01/ui/first_screen.dart';
+import 'package:lab01/ui/list_book.dart';
 import 'package:lab01/ui/list_data.dart';
 import 'package:lab01/ui/second_screen.dart';
 import 'package:lab01/ui/my_custom_form.dart';
@@ -21,7 +22,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.red,
       ),
       // home: MyHomePage(),
-      initialRoute: "/book",
+      initialRoute: "/listBook",
       routes:{
         "/customForm" :(context) => MyCustomForm(),
         "/SecondScreen":(context) => SecondScreen(),
@@ -31,6 +32,7 @@ class MyApp extends StatelessWidget {
         "/register": (context) => RegisterScreen(),
         "/login": (context) => LoginScreen(),
         "/book": (context) => BookScreen(),
+        "/listBook": (context) => ListBook(),
         },
     );
   }
