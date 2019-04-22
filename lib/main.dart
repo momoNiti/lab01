@@ -3,6 +3,7 @@ import 'package:lab01/ui/book_screen.dart';
 import 'package:lab01/ui/first_screen.dart';
 import 'package:lab01/ui/list_book.dart';
 import 'package:lab01/ui/list_data.dart';
+import 'package:lab01/ui/map_screen.dart';
 import 'package:lab01/ui/second_screen.dart';
 import 'package:lab01/ui/my_custom_form.dart';
 import './ui/todo_screem.dart';
@@ -22,7 +23,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.red,
       ),
       // home: MyHomePage(),
-      initialRoute: "/listBook",
+      initialRoute: "/map",
       routes:{
         "/customForm" :(context) => MyCustomForm(),
         "/SecondScreen":(context) => SecondScreen(),
@@ -33,6 +34,7 @@ class MyApp extends StatelessWidget {
         "/login": (context) => LoginScreen(),
         "/book": (context) => BookScreen(),
         "/listBook": (context) => ListBook(),
+        "/map": (context) => MapScreen()
         },
     );
   }
